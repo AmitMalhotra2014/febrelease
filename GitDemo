@@ -1,0 +1,8 @@
+public class GitDemo  {
+
+  public void sayHelloGit() {
+
+    System.debug('Hello Git');
+  }
+
+}
