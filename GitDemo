@@ -5,4 +5,9 @@ public class GitDemo  {
     System.debug('Hello Git');
   }
 
+  public void sayByeGit() {
+
+    System.debug('Bye Git');
+  }
+
 }
