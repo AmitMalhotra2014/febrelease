@@ -5,4 +5,11 @@ public class GitDemo  {
     System.debug('Hello Git');
   }
 
+  public void sum() {
+
+    System.debug('Sum');
+  }
+
+
+
 }
