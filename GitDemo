@@ -10,4 +10,11 @@ public class GitDemo  {
     System.debug('Bye Git');
   }
 
+  public void sum() {
+
+    System.debug('Sum');
+  }
+
+
+
 }
